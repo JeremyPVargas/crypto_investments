@@ -152,7 +152,7 @@ UW FinTech Bootcamp
 ---
 <!--License -->
 ## License
-Portfolio Risk Analysis tool is available under an MIT License.
+Tool is available under an MIT License.
 
 Copyright (c) 2022 - Resonant Solutions, LLC
 
